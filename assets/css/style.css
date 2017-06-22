@@ -48,6 +48,7 @@ ul {
 }
 a:link {
     text-decoration: none;
+
 }
 
 a:visited {
@@ -188,3 +189,24 @@ img.portfolio{
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;}
+
+.image{
+  position: relative;
+
+
+}
+
+p span{
+  color: white;
+  padding: 10px;
+  font:bold 24px/45px;
+  background-color: green;
+
+}
+
+.imagetext{
+  position: absolute;
+  
+  margin: 80px 20px 40px 100px;
+
+}
