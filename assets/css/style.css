@@ -1,0 +1,190 @@
+
+body {
+
+ 
+  padding-left: 150px;
+  padding-right: 250px;
+  background-color: #dedede;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777777;
+  font-size: 25px;
+}
+
+
+
+.myname{
+  margin-left:155px; 
+  padding: 30px;
+  color: white;
+  background: #4aaaa5;
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+
+
+
+}
+.menu{
+  float: right;
+  width: 40%;
+  
+   margin:20px 40px 25px 0px;
+
+
+  }
+
+li {
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    color: #777777;
+    font-size: 20px;
+
+    
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+ 
+ li a{
+  text-align: center;
+  display: block;
+  padding:10px;
+  
+
+
+  
+}
+
+#header {
+  padding: 1px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #cccccc;
+  margin-top: 0px;
+ font-family: 'Georgia', Times, Times New Roman, serif;
+  clear: both;
+  height: 90px;
+
+  background: #ffffff;
+}
+
+#middle-left{
+width: 60%;
+background-color: #ffffff;
+float: left;
+margin-bottom: 20px;
+border: 2px solid #dddddd;
+padding:10px;
+
+
+}
+
+#middle-right{
+  margin-left: 20px;
+width: 25%;
+background-color: #ffffff;
+float: left;
+border: 2px solid #dddddd;
+padding: 10px;
+
+
+
+}
+.midheader1{
+  padding: 20px;
+  border-bottom: 2px solid grey;
+  color: #4aaaa5;
+font-size: 35px;
+font-weight: bold;
+
+}
+
+.midbody1{
+
+  
+
+}
+.midheader2{
+  margin: 10px 0 10px 0;
+  padding: 20px;
+  border-bottom: 2px solid grey;
+  color: #4aaaa5;
+font-size: 30px;
+font-weight: bold;
+
+
+
+}
+
+.midbody2{
+
+
+}
+
+#footer{
+  clear: both;
+  padding: 20px;
+  margin-bottom: 0px;
+  margin-top:50px;
+  color: #333;
+  border-top: 4px solid #4aaaa5;
+  font-size: 15px;
+  text-align: center;
+  background: #666666;
+}
+
+img.social{
+  height: 64px;
+  width: 64px;
+  border: 1px solid #4aaaa5;
+}
+
+img.me{
+  float: left;
+    margin: 10px 10px 10px 10px;
+    height: 150px;
+    width: 250px;
+    border: 1px solid #4aaaa5;
+}
+
+img.portfolio{
+  float: left;
+    margin: 20px 15px 20px 15px;
+    height: 150px;
+    width: 250px;
+    border: 1px solid #4aaaa5;
+}
+
+.imagetext{
+
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+    background-color:#777777;
+
+}
+.name,.email,.message{width: 400px;height: 30px;margin: 5px;}
+.message{height:90px;}
+.button{ background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;}
